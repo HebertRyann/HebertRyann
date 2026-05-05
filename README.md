@@ -32,7 +32,3 @@ Currently improving my English to work in international teams and global product
 ## 🔗 Links
 
 - 💼 LinkedIn: https://www.linkedin.com/in/hebertryansantos
-
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertRyann)](https://github.com/anuraghazra/github-readme-stats)
