@@ -1,27 +1,39 @@
-### Olá! me chamo Hebert 👋
+# Hey, I'm Hebert 👋
 
-Sou Desenvolvedor Fullstack Júnior, sou apaixonado por tecnologia, mas tenho atualmente focado em javascript, usando Reactjs, Nodejs, React Native e Nextjs, são ferramentas eficientes e performáticas. Cursei o bootcamp GoStack da Rocketseat onde aprendemos desde o básico ate aplicações com frontend(Pagina web), backend(Servidor) e mobile(celular).
+Backend Engineer focused on building scalable and reliable systems.
 
-<p>
-  Veja meu portfolio para mais projetos:
-  <a href="https://hebertryann.github.io/portfolio/">Portfolio</a>
-</P>
+I have 4+ years of experience working with production-grade APIs, mainly in fintech environments, using Node.js, TypeScript and AWS.
 
-Veja meu linkedin: [LinkedIn](https://www.linkedin.com/in/hebertryansantos/)
+## 🚀 What I do
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertryann)](https://github.com/anuraghazra/github-readme-stats)
+- Design and build scalable backend services
+- Work with microservices and distributed systems
+- Improve performance, reliability and observability
+- Collaborate closely with product and other engineering teams
 
-<!--
-**HebertRyann/HebertRyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Tech Stack
 
-Here are some ideas to get you started:
+- **Backend:** Node.js, TypeScript, NestJS
+- **Frontend:** React, Next.js (when needed)
+- **Cloud & DevOps:** AWS, Docker
+- **Databases:** PostgreSQL, MySQL
+- **Messaging:** RabbitMQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+
+- System design and software architecture
+- Distributed systems and scalability
+- Applying AI in real-world products
+
+## 🌎 Goals
+
+Currently improving my English to work in international teams and global products.
+
+## 🔗 Links
+
+- 💼 LinkedIn: https://www.linkedin.com/in/hebertryansantos/
+- 🌐 Portfolio: https://hebertryann.github.io/portfolio/
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertryann&layout=compact)
